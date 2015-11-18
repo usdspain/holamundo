@@ -1,0 +1,4 @@
+vamos a realizar uan prueba para encontrar 
+cadenas dentro de un archivo
+vamos
+Para ello usaremos algunos paquetes de java.
